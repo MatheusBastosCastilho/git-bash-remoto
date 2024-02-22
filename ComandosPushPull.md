@@ -4,3 +4,4 @@ push: signignifica empurrar, corresponde ao ato de enviar o respositorio local p
 pull: significa puxar, corresponde ao ato contrário, pegar uma versao do repositrio remto para o local.
 a
 a
+a
